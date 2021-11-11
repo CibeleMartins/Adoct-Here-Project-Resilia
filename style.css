@@ -1,0 +1,655 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@300&display=swap');
+
+* {
+   padding: 0;
+   margin: 0;
+}
+
+body {
+   width: 100%;
+   height: 100%;
+   background-color: black;
+
+}
+
+
+
+.header1 {
+   width: 100%;
+   height:80px;
+   background: black;
+   display: flex;
+   justify-content: space-between;
+
+}
+
+
+
+.logo {
+   padding: 5px;
+   background-color: orange;
+   margin-top: 15px;
+   margin-bottom: 15px;
+   margin-left: 15px;
+   margin-right: 15px;
+   border-radius: 10px;
+   align-items: center;
+   display: flex;
+   font-family: 'Poppins', sans-serif;
+   font-size: 25px;
+   font-weight: bold;
+
+}
+
+.logo a:hover { 
+   font-size: 30px;
+   transform: translateY(-5px);
+   cursor: pointer;
+}
+
+.nav1 { 
+   display: flex;
+   justify-content: space-between;   
+
+}
+
+.button {
+   padding: 30px;
+   color: orange;
+   transition: 0.3s;
+   font-family: 'Poppins', sans-serif;
+   font-weight: bold;
+}
+
+a {
+   transition: 0.3s;
+
+
+}
+
+
+.button:hover { 
+   color: white;
+   transform: translateY(-5px);
+   cursor: pointer;
+
+}
+
+#img {
+   width: 120px;
+   
+   
+
+}
+
+
+#container {
+   display: flex;
+   
+}
+
+.linhadivisoria1 {
+   width: 100%;
+   height: 20px;
+   background-image: url("./Img/istockphoto-916132524-1024x1024.jpg");
+
+
+}
+
+
+.divider2 {
+   width: 50%;
+   height: 100vh;
+   background-color: black;
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+
+   
+}
+
+.box1 { 
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Cachorro1.jpg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+   background-position: right;
+}
+
+.box1:hover {
+   cursor: pointer;
+   transform: scale(1.4);
+}
+
+.box2 { 
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Cachorro2.jpg");
+   background-size: cover;
+   background-position: right;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+}
+
+.box2:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+}
+
+
+
+.box3 { 
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Cachorro3.jpg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+
+.box3:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+}
+
+.box4 { 
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Cachorro4.jpg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+
+.box4:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+}
+
+.foto1 {
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Cachorro5.jpg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+   flex-flow: nowrap;
+
+}
+
+.foto1:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+
+}
+
+.foto2{
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Cachorro6.jpg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+.foto2:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+
+}
+
+.foto3{
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Cachorro7.jpg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+.foto3:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+
+}
+
+.foto4{
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Cachorro8.jpg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+
+.foto4:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+
+}
+
+.img1 {
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Cachorro9.jpeg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+
+}
+
+.img1:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+
+}
+
+.img2 {
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Cachorro10.jpeg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+
+.img2:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+
+}
+
+.img3 {
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Cachorro10.jpeg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+
+.img3:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+
+}
+
+.img4 {
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Gato1.jpeg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+
+.img4:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+
+}
+
+.dog1 {
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Gato2.jpg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+
+.dog1:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+}
+
+.dog2 {
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/Gato3.jpg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+
+.dog2:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+
+}
+
+.dog3 {
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/img3.jpg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+
+.dog3:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+
+}
+
+.dog4 {
+   width: 100px;
+   height: 100px;
+   margin-top: 40px;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-image: url("./Img/img4.jpg");
+   background-size: cover;
+   transition: 0.4s;
+   border: orange solid 7px;
+   border-radius: 20px;
+
+}
+
+.dog4:hover{
+   cursor: pointer;
+   transform: scale(1.4);
+
+}
+
+.divider1{
+   width:50%;
+   height: 100vh;
+   background-image: url("./Img/background\ dog.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+
+.linhadivisoria2 {
+   width: 100%;
+   height: 20px;
+   background-image: url("./Img/istockphoto-916132524-1024x1024.jpg");
+   margin-top: 30px;
+
+   
+
+}
+
+#rodape {
+   width: 100%;
+   height: 30vh;
+   background-color: black;
+
+
+}
+
+.rodape1 {
+   background-color: black;
+   width: 100%;
+   height: 10vh;
+   
+
+
+}
+
+.imagerodape {
+   width: 100%;
+   height: 110px;
+   background-color: black;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   flex-direction: column;
+   margin-bottom: 20px;
+
+
+}
+
+.Insta{
+    
+   width: 43px;
+   height:43px;
+
+
+}
+
+.Face {
+   width: 40px;
+   height: 40px;
+
+
+}
+
+h1 {
+   font-family: 'Poppins', sans-serif;
+   font-size: 30px;
+   color:white;
+   font-weight: normal;
+   text-align: center;
+   margin-top: 15px;
+
+
+}
+
+ 
+
+.rodape2 {
+   background-color: orange;
+   width: 100%;
+   height: 10vh;
+   font-size: 20px;
+   font-family: 'Red Hat Mono', monospace;
+   color: black;
+   text-align: center;
+
+
+}
+
+#likedin {
+   color: white;
+   text-decoration: none;
+
+
+}
+
+
+
+@media (max-width: 700px) {
+
+   .divider1{
+      display: none;
+   }
+
+   .header1 {
+      width: 100vw;
+      height: 300px;
+      background: black;
+      display: flex;
+      justify-content: space-evenly;
+      flex-direction: column;
+      align-items: center;
+   
+   }
+
+
+   .logo {
+      padding: 5px;
+      background-color: orange;
+      margin-top: 15px;
+      margin-bottom: 15px;
+      margin-left: 15px;
+      margin-right: 15px;
+      border-radius: 10px;
+      align-items: center;
+      display: flex;
+      font-family: 'Poppins', sans-serif;
+      font-size: 25px;
+      font-weight: bold;
+   
+   }
+
+   .logo a {
+      width: 60%;
+      height: auto;
+      align-items: center;
+      flex-direction: column;
+
+   }
+
+   a {
+      display: flex;
+      justify-content: space-between;
+   }
+
+   
+
+   .logo a:hover { 
+      font-size: 30px;
+      transform: translateY(-5px);
+      cursor: pointer;
+   }
+
+   #img {
+      transform: scale(1.3);
+      cursor: pointer;
+
+
+   }
+
+   body {
+      width: 100vw;
+      height: auto;
+      background-color: black;
+   
+   }
+
+   .linhadivisoria1 {
+      width: 100vw;
+      height: 20px;
+      background-image: url("./Img/istockphoto-916132524-1024x1024.jpg");
+   
+   
+   }
+
+   #container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100vw;
+      height: auto;
+      
+   }
+
+   .divider2 {
+      width: 50%;
+      height: auto;
+      background-color: black;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      flex-direction: center;
+      align-items: center;
+   
+      
+   }
+
+   .linhadivisoria2 {
+      width: 100vw;
+      height: 20px;
+      background-image: url("./Img/istockphoto-916132524-1024x1024.jpg");
+   
+   
+   }
+
+   .rodape2 {
+      background-color: orange;
+      width: 100%;
+      height: auto;
+      font-size: 20px;
+      font-family: 'Red Hat Mono', monospace;
+      color: black;
+      text-align: center;
+   
+   
+   }
+
+   #likedin {
+      color: white;
+      text-decoration: none;
+      flex-direction: column;
+   
+   
+   }
+}
