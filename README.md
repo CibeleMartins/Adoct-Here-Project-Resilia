@@ -5,10 +5,7 @@
 
 <img src="./media/adoteGif.gif">
 <br>
-
-
-
-
+> Status do projeto: Em construção.
 
 <h2>GitHubs Pages é logo ali...</h2>
 <img src="./media/pages.gif">
