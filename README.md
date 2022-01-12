@@ -6,4 +6,3 @@
 <img src="./media/adoteGif.gif">
 <br>
 
->Status do projeto: Em construção.
