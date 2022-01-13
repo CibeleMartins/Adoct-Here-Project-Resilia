@@ -8,7 +8,7 @@
 
 <h2>Mobile</h2>
 
-<img id="imgReadme" src="./media/adoteGif2.gif">
+<img src="./media/adoteGif2.gif">
 
 
 > Status do projeto: Em construção.
