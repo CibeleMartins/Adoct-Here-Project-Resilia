@@ -7,7 +7,9 @@
 <img src="./media/adoteGif.gif">
 
 <h2>Mobile</h2>
-<img style="vertical-align:middle" src="./media/adoteGif2.gif">
+
+<img id="imgReadme" src="./media/adoteGif2.gif">
+
 
 > Status do projeto: Em construção.
 
