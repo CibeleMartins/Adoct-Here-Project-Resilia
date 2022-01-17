@@ -94,7 +94,7 @@ a {
 .linhadivisoria1 {
    width: 100%;
    height: 20px;
-   background-image: url("./Img/istockphoto-916132524-1024x1024.jpg");
+   background-image: url("./img/istockphoto-916132524-1024x1024.jpg");
 
 
 }
@@ -117,7 +117,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Cachorro1.jpg");
+   background-image: url("./img/Cachorro1.jpg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -136,7 +136,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Cachorro2.jpg");
+   background-image: url("./img/Cachorro2.jpg");
    background-size: cover;
    background-position: right;
    transition: 0.4s;
@@ -157,7 +157,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Cachorro3.jpg");
+   background-image: url("./img/Cachorro3.jpg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -176,7 +176,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Cachorro4.jpg");
+   background-image: url("./img/Cachorro4.jpg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -195,7 +195,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Cachorro5.jpg");
+   background-image: url("./img/Cachorro5.jpg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -216,7 +216,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Cachorro6.jpg");
+   background-image: url("./img/Cachorro6.jpg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -235,7 +235,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Cachorro7.jpg");
+   background-image: url("./img/Cachorro7.jpg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -254,7 +254,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Cachorro8.jpg");
+   background-image: url("./img/Cachorro8.jpg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -274,7 +274,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Cachorro9.jpeg");
+   background-image: url("./img/Cachorro9.jpeg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -295,7 +295,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Cachorro10.jpeg");
+   background-image: url("./img/Cachorro10.jpeg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -315,7 +315,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Cachorro10.jpeg");
+   background-image: url("./img/Cachorro10.jpeg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -335,7 +335,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Gato1.jpeg");
+   background-image: url("./img/Gato1.jpeg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -355,7 +355,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Gato2.jpg");
+   background-image: url("./img/Gato2.jpg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -374,7 +374,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/Gato3.jpg");
+   background-image: url("./img/Gato3.jpg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -394,7 +394,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/img3.jpg");
+   background-image: url("./img/img3.jpg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -414,7 +414,7 @@ a {
    margin-top: 40px;
    margin-left: 3%;
    margin-right: 3%;
-   background-image: url("./Img/img4.jpg");
+   background-image: url("./img/img4.jpg");
    background-size: cover;
    transition: 0.4s;
    border: orange solid 7px;
@@ -431,7 +431,7 @@ a {
 .divider1{
    width:50%;
    height: 100vh;
-   background-image: url("./Img/background\ dog.jpg");
+   background-image: url("./img/background\ dog.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    
@@ -440,7 +440,7 @@ a {
 .linhadivisoria2 {
    width: 100%;
    height: 20px;
-   background-image: url("./Img/istockphoto-916132524-1024x1024.jpg");
+   background-image: url("./img/istockphoto-916132524-1024x1024.jpg");
    margin-top: 30px;
 
    
@@ -598,7 +598,7 @@ h1 {
    .linhadivisoria1 {
       width: 100vw;
       height: 20px;
-      background-image: url("./Img/istockphoto-916132524-1024x1024.jpg");
+      background-image: url("./img/istockphoto-916132524-1024x1024.jpg");
    
    
    }
@@ -628,7 +628,7 @@ h1 {
    .linhadivisoria2 {
       width: 100vw;
       height: 20px;
-      background-image: url("./Img/istockphoto-916132524-1024x1024.jpg");
+      background-image: url("./img/istockphoto-916132524-1024x1024.jpg");
    
    
    }
