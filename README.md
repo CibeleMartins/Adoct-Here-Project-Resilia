@@ -5,7 +5,6 @@
 
 <h2>Desktop</h2>
 <img src="./media/adoteGif.gif">
-<br>
 
 <h2 style="text-align:center">Mobile</h2>
 
@@ -15,7 +14,6 @@
 
 
 > Status do projeto: Em construção.
-<br>
 
 <h2>Documentação e Referências</h2>
 
