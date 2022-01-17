@@ -11,7 +11,7 @@
 <div align="center">
 <img src="./media/adoteGif2.gif">
 </div>
-
+<br>
 
 > Status do projeto: Em construção.
 
