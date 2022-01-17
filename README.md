@@ -13,7 +13,7 @@
 </div>
 <br>
 
-> Status do projeto: Em construção.
+> Status do projeto: Sujeito a melhorias.
 
 <h2>Documentação e Referências</h2>
 
