@@ -5,13 +5,23 @@
 
 <h2>Desktop</h2>
 <img src="./media/adoteGif.gif">
+<br>
 
-<h2>Mobile</h2>
+<h2 style="text-align:center">Mobile</h2>
 
+<div style="text-align:center">
 <img src="./media/adoteGif2.gif">
+</div>
 
 
 > Status do projeto: Em construção.
+<br>
+
+<h2>Documentação e Referências</h2>
+
+<ul>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox">Flexbox</a></li>
+</ul>
 
 <h2>GitHubs Pages é logo ali...</h2>
 <img src="./media/pages.gif">
