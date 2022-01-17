@@ -6,9 +6,9 @@
 <h2>Desktop</h2>
 <img src="./media/adoteGif.gif">
 
-<h2 style="text-align:center">Mobile</h2>
+<h2 align="center">Mobile</h2>
 
-<div style="text-align:center">
+<div align="center">
 <img src="./media/adoteGif2.gif">
 </div>
 
